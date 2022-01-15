@@ -10,3 +10,7 @@ c:\Users\asus\Documents\Visual Studio 2013\Projects\PogCat\PogCat\bin\Debug\Newt
 c:\Users\asus\Documents\Visual Studio 2013\Projects\PogCat\PogCat\bin\Debug\Newtonsoft.Json.xml
 C:\Users\asus\documents\visual studio 2013\Projects\PogCat\PogCat\obj\Debug\PogCat.ShopMenu.resources
 C:\Users\asus\documents\visual studio 2013\Projects\PogCat\PogCat\obj\Debug\PogCat.csprojResolveAssemblyReference.cache
+C:\Users\asus\documents\visual studio 2013\Projects\PogCat\PogCat\bin\Debug\PogCat.exe.manifest
+C:\Users\asus\documents\visual studio 2013\Projects\PogCat\PogCat\bin\Debug\PogCat.application
+C:\Users\asus\documents\visual studio 2013\Projects\PogCat\PogCat\obj\Debug\PogCat.exe.manifest
+C:\Users\asus\documents\visual studio 2013\Projects\PogCat\PogCat\obj\Debug\PogCat.application
