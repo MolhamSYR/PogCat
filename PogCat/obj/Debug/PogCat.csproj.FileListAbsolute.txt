@@ -1,0 +1,12 @@
+c:\users\asus\documents\visual studio 2013\Projects\PogCat\PogCat\bin\Debug\PogCat.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\PogCat\PogCat\bin\Debug\PogCat.exe
+c:\users\asus\documents\visual studio 2013\Projects\PogCat\PogCat\bin\Debug\PogCat.pdb
+c:\users\asus\documents\visual studio 2013\Projects\PogCat\PogCat\obj\Debug\PogCat.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\PogCat\PogCat\obj\Debug\PogCat.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\PogCat\PogCat\obj\Debug\PogCat.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\PogCat\PogCat\obj\Debug\PogCat.exe
+c:\users\asus\documents\visual studio 2013\Projects\PogCat\PogCat\obj\Debug\PogCat.pdb
+c:\Users\asus\Documents\Visual Studio 2013\Projects\PogCat\PogCat\bin\Debug\Newtonsoft.Json.dll
+c:\Users\asus\Documents\Visual Studio 2013\Projects\PogCat\PogCat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asus\documents\visual studio 2013\Projects\PogCat\PogCat\obj\Debug\PogCat.ShopMenu.resources
+C:\Users\asus\documents\visual studio 2013\Projects\PogCat\PogCat\obj\Debug\PogCat.csprojResolveAssemblyReference.cache
